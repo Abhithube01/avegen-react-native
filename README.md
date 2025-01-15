@@ -1,4 +1,4 @@
-# Mobile_Dev_Project-CalculatorAPP
+# Abhinav - CalculatorAPP
 Calculator APP created using Expo and React Native
 [**Expo** is a framework to build React Native apps]
 -Expo Has many tools and features to help user write a React Native application
